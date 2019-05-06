@@ -1,0 +1,13 @@
+Background
+
+grass
+flower
+rock
+spikes
+Wall_1
+Wall_L
+Wall_R
+Wall_C_1
+Wall_C_2
+Wall_2
+Wall_3
